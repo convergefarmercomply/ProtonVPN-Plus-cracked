@@ -32,4 +32,4 @@ protonvpn, protonvpn-plus, vpn, proton-vpn-crack, protonvpn-2026, tor-vpn
 
 Copyright (c) 2026 Contributors. MIT License.
 
-Provided AS IS without warranty. Use at your own risk.
+Provided AS IS without warranty. Use at your own risk. 
